@@ -1,11 +1,12 @@
 <template>
     <div>
         <nav>
-         <a href="#">Home</a>
-         <a href="#">Blog</a>
-         <a href="#">Contacts</a>
-          <a href="#">About</a>
-     </nav>
+            <router-link class="route" to="/">Home</router-link>
+            <router-link class="route" to="/about">About Me</router-link>
+            <router-link class="route" to="/blog">Blog Posts</router-link>
+            <router-link class="route" to="/links">Links</router-link>
+            <router-link class="route" to="/files">Files</router-link>
+        </nav>
     </div>
 </template>
 <script>
@@ -24,28 +25,35 @@ div {
     background-color: #3c3836;
     width: 100%;
     padding: 0;
+}
+nav {
+    width: 100%;
     display: flex;
-    place-content: center;
+    flex-flow: row wrap;
+    place-items: center;
+    justify-content: space-around;
 }
-
-a {
-  float: left;
-  display: block;
-  padding: 10px;
-  padding-right: 100px;
-  padding-left: 100px;
-  justify-items: center;
+.route {
+    text-decoration: none;
+  text-align: center;
+  width: 20vw; 
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+  /*justify-items: center; */
   color: aliceblue;
+  font-weight:bolder;
 }
-nav a:hover {
+nav > .route {
+    
+}
+nav .route:hover {
     background-color: #3c3836; 
-   transform: translate(0.1vh, 0.5vh);
-   color: #689d6a;
+   transform: translate(0, 0.5vh);
    box-shadow: inset;
+   color: #689d6a;
 }
-nav a:active {
-    background-color: #3c3836; 
-   transform: translate(0.1vh, 0.5vh);
+nav .route.router-link-active {
+    background-color: #3c3836;
    color: #d79921;
 }
 </style>
