@@ -1,5 +1,5 @@
-#Silas Tompkins
-###Golang, Java, Python
+# Silas Tompkins
+### Golang, Java, Python
 <!--
 **SeeSharpSi/SeeSharpSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
