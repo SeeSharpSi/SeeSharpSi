@@ -1,4 +1,4 @@
-# Hi there, I'm Silas 👋
+# Howdy, I'm Silas 👋
 
 Welcome to my GitHub profile! I'm a backend-focused developer with experience across several languages, constantly exploring new technologies and building things.
 
@@ -14,9 +14,9 @@ I enjoy tackling challenging problems and building robust, scalable applications
 
 Here are some of the technologies I've worked with:
 
-*   **Languages:** Java, Go, Python, PHP, JavaScript
+*   **Languages:** Java, Go, Python, PHP, JavaScript/TypeScript
 *   **Frameworks/Libraries:** Spring Boot (Java), Vue.js (JavaScript), Laravel (PHP)
-*   **Other:** AWS, GitLab
+*   **Other:** AWS, GitLab, Google Cloud
 
 ---
 
@@ -41,19 +41,12 @@ Feel free to explore my repositories to see some of the projects I've been invol
 
 ### Get in Touch
 
-*   You can find me on [LinkedIn](https://www.linkedin.com/in/silas-tompkins/).
-*   Connect with me at silastompkins@outlook.com.
+*   You can find me on [LinkedIn](https://www.linkedin.com/in/silas-tompkins/) 
+*   Connect with me at silastompkins@outlook.com 
 
 ---
 
-⭐️ Thanks for stopping by!
+Thanks for stopping by!
 
 ---
 
-<!--
-**Optional Additions:**
-
-*   **Badges:** Add skill badges using services like shields.io (e.g., ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)).
-*   **GitHub Stats:** Add dynamic GitHub stats cards using services like github-readme-stats (https://github.com/anuraghazra/github-readme-stats).
-*   **More detailed sections:** Expand on specific projects, contributions, or interests.
--->
