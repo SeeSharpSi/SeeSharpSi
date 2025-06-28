@@ -22,8 +22,9 @@ Here are some of the technologies I've worked with:
 
 ### What I'm Currently Working On / Interested In
 
-*   Currently focusing on sharpening my skills in GoLang.
-*   Building out a new project using [bubbletea](https://github.com/charmbracelet/bubbletea).
+*   Currently focusing on sharpening my skills in GoLang, Rust, and similar interests
+*   Creating my personal website, [silasblog.com](https://www.silasblog.com)
+*   Building out a new project using [bubbletea](https://github.com/charmbracelet/bubbletea) 
 *   Starting to learn Swift
 
 ---
